@@ -1,0 +1,21 @@
+{
+    "name" : "laravel/database-ext",
+    "description": "Laravel database extension provides for creating migrations for database views and functions",
+    "keywords": ["laravel","database","views","functions"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Caleb Fonyuy",
+            "email": "fonyuyca@gmail.com"
+        }
+    ],
+    "require": {
+        "nette/php-generator": "^3.6"
+    },
+    "require-dev": {
+
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
